@@ -1,4 +1,4 @@
-# This repository contains Matlab codes used to analyze X-ray diffraction (XRD) synchrotron data collected at Soleil during the measurement week between 6 July 2021 to 12 July 2021.
+# This repository contains Matlab codes used to analyze X-ray diffraction (XRD) data collected at the Diffabs beamline of the Soleil synchrotron during the measurement week between 6 July 2021 to 12 July 2021.
 
 To use these 4 codes, place the desired file(s) in a folder together with the corresponding dataset and the file "backcor.m".
 
