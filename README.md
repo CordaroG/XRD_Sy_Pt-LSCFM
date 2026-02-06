@@ -2,7 +2,7 @@
 
 To use these 4 codes, place the desired file(s) in a folder together with the corresponding dataset and the file "backcor.m".
 
-Datasets can be found here: [LINK](https://doi.org/10.57745/RVHUP6) (currently under review)
+Datasets can be found here: [LINK](https://doi.org/10.57745/RVHUP6) 
 
 Modify the "scan_temp" variable at line 6 to analyze another dataset. This value must be equal to the one in the dataset file name.
 
